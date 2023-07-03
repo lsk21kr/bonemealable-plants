@@ -3,12 +3,12 @@
         "title": "guris",
         "description": [
             {
-                "text": "Balanced Extensions data packs created by Seungkyu Fred Lee.\n"
+                "text": "Balanced Extensions data packs created by Seungkyu Fred Lee."
             }
         ],
         "icon": {
-            "item": "minecraft:player_head",
-            "nbt": "{SkullOwner: 'KnithGuris'}"
+        "item": "minecraft:player_head",
+        "nbt": "{SkullOwner:\"KnithGuris\"}"
         },
         "show_toast": false,
         "announce_to_chat": false
