@@ -1,4 +1,4 @@
-# Versions History
+# Version History
 ## v0.1 (2023-07-03)
 * Added
   * Plant replication for small flowers, pitcher plant, torchflower, cactus, dead bush, lily pad, moss carpet, crimson roots, warped roots, and nether sprouts, nether wart, shroom light, spore blossom, sugar cane, tall grass, tall seagrass, large fern, and vine
