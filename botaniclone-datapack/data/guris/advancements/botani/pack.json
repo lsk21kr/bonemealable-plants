@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "BotaniClone",
+        "description": "Use bone meal on small flowers, sugarcane, and other various plants.\n",
+        "icon": {
+            "item": "minecraft:bone_meal"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:guris",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
