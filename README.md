@@ -2,7 +2,7 @@
 BotaniClone is a minecraft data pack that let you clone small flowers and other various plants with bone meal.
 
 ## Dev Status
-* 🟨 **Active**: Actively developing. Working properly.
+* 🟦 **Active**: Actively developing. Working properly.
 * **Version**: v0.1
 
 ## Compatibility
