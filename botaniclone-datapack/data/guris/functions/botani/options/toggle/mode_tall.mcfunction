@@ -1,3 +1,4 @@
+# context: command
 # toggle option
 execute if score option_modetall guris.botani matches 1.. run scoreboard players set option_modetall guris.botani 2
 execute unless score option_modetall guris.botani matches 1.. run scoreboard players set option_modetall guris.botani 1
@@ -8,5 +9,5 @@ execute if score option_modetall guris.botani matches 1 run playsound minecraft:
 execute if score option_modetall guris.botani matches 0 run playsound minecraft:ui.button.click master @s ~ ~ ~ .2 1.3 .2
 
 # print options
-function guris:botani/options/menu
+function guris:botani/settings
 function guris:botani/options/mute_set

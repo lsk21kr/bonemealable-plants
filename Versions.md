@@ -6,3 +6,12 @@
   * Tree like plant replication for oak, spruce, birch, jungle, acacia, dark oak, cherry leaves for saplings, azalea, flowering azalea leaves for bushes, mangrove propagule for mangrove propagule, nether wart block for crimson fungus, warped wart block for warped fungus, and brown and red mushroom block for mushroom.
   * Chorus flower de-aging
   * Options for balancing: ancient plants, nether roots, nether wart, shroomlight, wither rose, trees, fungi, mushroom, chorus de-aging, potted plants, loot mode, tall grass mode
+
+## v1.0 (2023-07-05)
+* Added
+  * Hanging root replication
+* Removed
+  * Option for nether roots is removed since they are for purely decorational purposes, and have nothing to do with balancing.
+  * Option for shroomlight is merged into option for fungi.
+* Others
+  * Code cleanup

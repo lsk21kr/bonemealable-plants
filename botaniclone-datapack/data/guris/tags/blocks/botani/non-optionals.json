@@ -1,47 +1,47 @@
 {
     "values": [
       {
-        "id": "#guris:botani/non-optionals",
+        "id": "#minecraft:small_flowers",
         "required": false
       },
       {
-        "id": "#minecraft:flower_pots",
+        "id": "minecraft:cactus",
         "required": false
       },
       {
-        "id": "#minecraft:leaves",
+        "id": "minecraft:dead_bush",
         "required": false
       },
       {
-        "id": "minecraft:mangrove_propagule",
+        "id": "minecraft:lily_pad",
         "required": false
       },
       {
-        "id": "#guris:botani/ancient_plants",
+        "id": "minecraft:hanging_roots",
         "required": false
       },
       {
-        "id": "minecraft:pitcher_crop",
+        "id": "minecraft:moss_carpet",
         "required": false
       },
       {
-        "id": "minecraft:chorus_flower",
+        "id": "#guris:botani/nether_roots",
         "required": false
       },
       {
-        "id": "#minecraft:wart_blocks",
+        "id": "minecraft:spore_blossom",
         "required": false
       },
       {
-        "id": "#guris:botani/mushroom_blocks",
+        "id": "minecraft:sugar_cane",
         "required": false
       },
       {
-        "id": "minecraft:nether_wart",
+        "id": "#guris:botani/tall_grasses",
         "required": false
       },
       {
-        "id": "minecraft:shroomlight",
+        "id": "minecraft:vine",
         "required": false
       }
     ]
