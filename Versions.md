@@ -12,6 +12,7 @@
   * Hanging root replication
 * Changed
   * Options command is relocated to guris:botani/settings
+  * Slightly increased size of interaction so that users can interact easily
 * Removed
   * Option for nether roots is removed since they are for purely decorational purposes, and have nothing to do with balancing.
   * Option for shroomlight is merged into option for fungi.
